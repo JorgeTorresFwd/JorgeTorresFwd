@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I currently work as a FullStack Developer.\
+👨‍💻 &nbsp;I currently work as a Developer en FWD Logistica.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I have an Engineering degree in Computer Systems with a specialty in Multiplatform Apps.\
 🌱 &nbsp;I like to learn technologies related to mobile and web development.\
